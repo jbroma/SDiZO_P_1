@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <windows.h>
+#include <stdarg.h>
 
 #define MENU_X 40 //Default X-axis coordinate of a console window
 #define MENU_Y 10 //Default Y-axis coordinate of a console window
