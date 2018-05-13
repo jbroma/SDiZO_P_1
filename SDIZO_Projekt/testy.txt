@@ -1,0 +1,13 @@
+################################################################################
+
+Data pomiaru:		Fri Apr 13 23:48:52 2018
+Typ struktury:		Array
+Rodzaj operacji:	Usuwanie na poczatku
+Wielkosc struktury:	20000
+Liczba operacji/pomiar:	1
+Ilosc pomiarow:		100
+
+--------------------------------------------------------------------------------
+Srednia z pomiarow:	4.97993	us
+
+################################################################################
